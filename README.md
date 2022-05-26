@@ -1,8 +1,8 @@
 # Smart Sticky Toolbar di Next.js
 
-Kode lengkap tutorial [Smart Sticky Toolbar di Next.js](https://aconymous.com/blog/smart-sticky-toolbar-nextjs). Toolbar di bawah artikel yang minggir saat pembaca scroll ke bawah, muncul lagi saat scroll ke atas, dan cuma tampil di area artikel. Header ikut minggir dengan aturan yang sama.
+Kode lengkap tutorial [Smart Sticky Toolbar di Next.js](https://aconymous.com/blog/cara-buat-smart-sticky-toolbar-nextjs). Toolbar di bawah artikel yang minggir saat pembaca scroll ke bawah, muncul lagi saat scroll ke atas, dan cuma tampil di area artikel. Header ikut minggir dengan aturan yang sama.
 
-English version of the tutorial: [Smart Sticky Toolbar in Next.js](https://aconymous.com/en/blog/smart-sticky-toolbar-nextjs).
+English version of the tutorial: [Smart Sticky Toolbar in Next.js](https://aconymous.com/en/blog/how-to-smart-sticky-toolbar-nextjs).
 
 ## Menjalankan
 
